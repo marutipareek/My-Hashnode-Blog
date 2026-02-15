@@ -1,5 +1,7 @@
 # My-Hashnode-Blog
 
+# Git & Version Control
+
 *Git for Beginners: Basics and Essential Commands*
  
 https://marutipareek.hashnode.dev/git-for-beginners-basics-and-essential-commands
@@ -11,6 +13,8 @@ https://marutipareek.hashnode.dev/inside-git-how-it-works-and-the-role-of-the-gi
 *Why Version Control Exists: The Pendrive Problem*
 
 https://marutipareek.hashnode.dev/why-version-control-exists-the-pendrive-problem
+
+# Networking & DNS
 
 *Getting Started with cURL*
 
@@ -35,6 +39,8 @@ https://marutipareek.hashnode.dev/tcp-vs-udp-when-to-use-what-and-how-tcp-relate
 *TCP Working: 3-Way Handshake & Reliable Communication*
 
 https://marutipareek.hashnode.dev/tcp-working-3-way-handshake-and-reliable-communication
+
+# Web Fundamentals (HTML & CSS)
 
 *How a Browser Works: A Beginner-Friendly Guide to Browser Internals*
 
